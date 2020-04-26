@@ -27,5 +27,5 @@ Asking for twice of the average successful Kickstarter goal is not recommended; 
  
 ![Plot 3](graphic_3.png)
 
-We show that the mean campaign goal is close to £4,000. This is outside of the range of outliers for amount pledged, It is recommended to produce the theatrical play for less than £4,000 since half of the campaign goals are less than £2,000.
+We show that the mean campaign goal is close to £4,000 (boxplot in the left side). This is outside of the range of outliers for amount pledged, It is recommended to produce the theatrical play for less than £4,000 since half of the campaign goals are less than £2,000 (boxplot in the right side).
 
