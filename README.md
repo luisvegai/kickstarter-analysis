@@ -33,4 +33,19 @@ We show that the mean campaign goal is close to £4,000 (boxplot in the left sid
 
 ### Challenge
 
+Here we want to know how many other Kickstarter campaigns were able to came close to its fundraising goal.
+Also we want to determine whether the length of a campaign contributes to its ultimate success or failure.
+
+First we did an analysis of outcome based on goals, using data only from the "Theatre/Play" subcategory.
+
+![C_Plot 1](challenge_plot1.png)
+
+In this plot we can see that there is a trend on goals and success of a kickstarter campaign. Sucessful campaigns with higher goals are very few, specially above $40000. In average, 63.6% campaigns with goals up to $24999 succeeded. In total, 554 play campaigns succeeded in achieving their goal.
+
+Next we have the following plot:
+
+![C_Plot 2](challenge_plot2.png)
+
+This plot indicates that the number of successful campaigns peak on June and decrease on December. The longer the campaign, the few chances of succeeding.
+
 
