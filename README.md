@@ -46,6 +46,7 @@ Next we have the following plot:
 
 ![C_Plot 2](challenge_plot2.png)
 
-This plot indicates that the number of successful campaigns peak on June and decrease on December. The longer the campaign, the few chances of succeeding.
+This plot indicates that the number of successful campaigns peak on June and decrease on December. However the number of failed campaigns dont seem to change much. The length of the campaign doesnt seem to hint chances of succeeding or failing.
+
 
 
