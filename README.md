@@ -2,7 +2,7 @@
 ##Performing analysis on Kickstarter data to uncover trends
 
 
-## Kick start: Theatrical productions in US
+### Kick start: Theatrical productions in US
 
 Findings:
 
@@ -17,7 +17,8 @@ June shows a noticeable big number of successful campains, which decreases by De
 
 Asking for twice of the average successful Kickstarter goal is not recommended; there are failed Kickstarter campaigns with very high goals and the data tells us that it is possible that such is the reason why they failed.
 
-## Kick start: Theatrical productions in GB (there is interest to start a pfoject with an estimated budget of £4,000.)
+
+### Kick start: Theatrical productions in GB (there is interest to start a pfoject with an estimated budget of £4,000.)
 
 * In Great Britain there are 604 Kickstarter theatre play campaigns, being that subcategory the most successful.
 * "Foresight" (Great Britain play): Its campaign was a successful one and it was active for about a month. It reached 100% of its goal. 
@@ -28,4 +29,8 @@ Asking for twice of the average successful Kickstarter goal is not recommended; 
 ![Plot 3](graphic_3.png)
 
 We show that the mean campaign goal is close to £4,000 (boxplot in the left side). This is outside of the range of outliers for amount pledged, It is recommended to produce the theatrical play for less than £4,000 since half of the campaign goals are less than £2,000 (boxplot in the right side).
+
+
+### Challenge
+
 
